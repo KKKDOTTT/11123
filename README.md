@@ -208,3 +208,11 @@ public Create() {
 		            writer.flush();
 		            writer.close();
 		        } catch (IOException e1) {
+实验结果
+-------
+![](https://github.com/CristianoRonaldoDD/sy5/blob/master/%E6%8D%951%E8%8E%B7.PNG)</div>
+![](https://github.com/CristianoRonaldoDD/sy5/blob/master/%E6%8D%95%E8%8E%B72.PNG)</div>
+
+感想
+----
+对GUI的编程还不熟悉，需要请教老师同学·查阅资料才能完成，还需努力。
