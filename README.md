@@ -212,6 +212,7 @@ public Create() {
 -------
 https://github.com/KKKDOTTT/11123/blob/master/微信图片_20191208222239.png
 https://github.com/KKKDOTTT/11123/blob/master/微信图片_20191208222255.png
+https://github.com/KKKDOTTT/11123/blob/master/微信图片_20191208222310.png
 感想
 ----
-对GUI的编程还不熟悉，需要请教老师同学·查阅资料才能完成，还需努力。
+很多代码还是需要上网查或者向同学借之后再去了解消化，还属于明白思路，带是实际操作后，很多代码编写的格式还是很生疏，还需要再课余或假期多去学习
