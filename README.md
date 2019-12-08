@@ -211,7 +211,7 @@ public Create() {
 实验结果
 -------
 https://github.com/KKKDOTTT/11123/blob/master/微信图片_20191208222239.png
-
+https://github.com/KKKDOTTT/11123/blob/master/微信图片_20191208222255.png
 感想
 ----
 对GUI的编程还不熟悉，需要请教老师同学·查阅资料才能完成，还需努力。
