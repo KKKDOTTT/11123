@@ -210,8 +210,7 @@ public Create() {
 		        } catch (IOException e1) {
 实验结果
 -------
-![](https://github.com/CristianoRonaldoDD/sy5/blob/master/%E6%8D%951%E8%8E%B7.PNG)</div>
-![](https://github.com/CristianoRonaldoDD/sy5/blob/master/%E6%8D%95%E8%8E%B72.PNG)</div>
+https://github.com/KKKDOTTT/11123/blob/master/微信图片_20191208222239.png
 
 感想
 ----
